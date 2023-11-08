@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+#menu-burger {
+  position: absolute;
+  background: grey;
+  height: 680px;
+  width: 30px;
+  margin: 10px;
+  right: -10px;
+  padding-left: 20px;
+  padding-top: 8px;
+}
+p {
+  display: flex;
+  flex-direction: column;
+}
+span {
+  height: 8px;
+}
+#texte {
+  position: absolute;
+  background: lightgrey;
+  width: 1515px;
+  height: 688px;
+  top: 0;
+  left:50px;
+  display: none;
+}
